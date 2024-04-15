@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Học tiếng anh ",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "text": "Mua thực phẩm",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "text": "Đi tập gym",
+      "completed": false
+    },
+    {
+      "id": "c267"
+    },
+    {
+      "id": "3da2"
+    }
+  ]
+}
